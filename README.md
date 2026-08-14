@@ -1,12 +1,13 @@
-![Typing Animation](https://waveify.onrender.com/api/typing/classic?text=I%27m+going+to+be+the+Pirate+King%21&speed=50&color=%23000000&backgroundColor=%23ffffff&fontSize=20&fontFamily=monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=classic&prompt=)
+<div align="center">
 
+<img src="https://waveify.onrender.com/api/typing/rainbow?text=I%27m+going+to+be+the+Pirate+King%21&speed=70&color=%23ff0000&backgroundColor=%23ffffff&fontSize=22&fontFamily=monospace&width=500&height=80&cursor=true&type=rainbow">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wildanibnthaha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wildanibnthaha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wildanibnthaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wildanibnthaha@gmail.com) 
+<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="120">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=wildanibnthahaa&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="800">
+
+</div>
