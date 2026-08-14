@@ -1,4 +1,4 @@
-![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
+![Typing Animation](https://waveify.onrender.com/api/typing/classic?text=I%27m+going+to+be+the+Pirate+King%21&speed=50&color=%23000000&backgroundColor=%23ffffff&fontSize=20&fontFamily=monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=classic&prompt=)
 
 
 ## 🌐 Socials:
